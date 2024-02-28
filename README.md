@@ -7,6 +7,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshots](#screenshot-desktop)
+  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -24,9 +25,14 @@ Users should be able to:
 
 ![](./screenshot.jpg)
 
-### Screenshot MobileView (VS Code, active state)
+### Screenshot Mobile (active state)
 
 ![](./screenshot_mobile.jpg)
+
+### Links
+
+- Solution URL: https://github.com/theGamingKitten/social-links-profile-main
+- Live Site URL: https://thegamingkitten.github.io/social-links-profile-main/
 
 ## My process
 
