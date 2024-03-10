@@ -6,7 +6,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshots](#screenshot-desktop)
+  - [Screenshots](#screenshots)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -21,18 +21,16 @@ Users should be able to:
 
 - See hover and focus states for all interactive elements on the page
 
-### Screenshot Desktop
+### Screenshots
 
 ![](./screenshot.jpg)
-
-### Screenshot Mobile (active state)
 
 ![](./screenshot_mobile.jpg)
 
 ### Links
 
-- Solution URL: https://github.com/theGamingKitten/social-links-profile-main
-- Live Site URL: https://thegamingkitten.github.io/social-links-profile-main/
+- [Solution URL](https://github.com/theGamingKitten/social-links-profile-main)
+- [Live Site URL](https://thegamingkitten.github.io/social-links-profile-main/)
 
 ## My process
 
@@ -58,6 +56,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    min-height: 100vh;
 }
 ```
 

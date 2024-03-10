@@ -14,11 +14,13 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    min-height: 100vh;
+    font-size: 14px;
 }
 
 .profile-container {
     background-color: var(--dark-grey);
-    padding: 40px;
+    padding: 20px;
     border-radius: 10px;
     width: 350px;
 }
@@ -29,19 +31,19 @@ body {
 }
 
 .name {
-    font-weight: 700;
+    font-weight: 600;
+    font-size: 1.5rem;
 }
 
 .location {
     color: var(--primary-color);
-    font-weight: 700;
-    margin-top: -15px;
+    font-weight: 400;
+    margin-top: -10px;
     margin-bottom: 25px;
-    font-size: small;
+    font-size: 0.9rem;
 }
 
 .subtext {
-    font-size: 14px;
     font-weight: 400;
     margin-bottom: 30px;
 }
@@ -50,7 +52,7 @@ body {
     text-decoration: none;
     background-color: var(--grey);
     color: var(--white);
-    font-weight: 600;
+    font-weight: 400;
     border-radius: 10px;
     padding: 15px;
     display: block;
@@ -65,12 +67,10 @@ body {
 
 @media (max-width: 375px) {
     .name {
-        font-size: 30px;
         font-weight: 400;
     }
 
     .profile-container {
-    padding: 30px;
     width: 280px;
     margin: 20px auto;
  }
